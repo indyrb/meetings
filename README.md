@@ -6,7 +6,15 @@ Topics
 
 ### Editor Wars 
 
-**Vim** - Dave Strus and Miles Sterret gave a lively presentation on Vim
+#### Vim
+- Dave Strus and Miles Sterret gave a lively presentation on Vim
+- **Vim Links** - <mileszs.github.com>
+
+#### Emacs
+- Nolan Eakins presented emacs - and Tetris emacs!
+
+
+- Discussed Github Page - <github.com/blog/272-github-pages>
 
 ### Gems and Plugins 
 
