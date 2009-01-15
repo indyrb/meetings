@@ -46,7 +46,7 @@ Selections
            ⌘⌥A Edit Multiple Lines
              ⌥ Change to Column Selection
         ⌥ drag Column Select
-      ⌘⇧ arrow Move Selection
+      ⌃⌘ arrow Move Selection
   
 Code
             ⌃_ Toggle camelCase / snake_case / PascalCase
