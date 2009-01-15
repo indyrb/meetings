@@ -9,14 +9,17 @@ Topics
 #### Vim
 Dave Strus and Miles Sterret gave a lively presentation on Vim
 
-**Vim Links** - <mileszs.github.com>
+**Vim Links**
+<mileszs.github.com>
+
+**Discussed Github Page**
+<github.com/blog/272-github-pages>
 
 #### Emacs
 
 Nolan Eakins presented emacs - and Tetris emacs!
 
 
-- Discussed Github Page - <github.com/blog/272-github-pages>
 
 ### Gems and Plugins 
 
