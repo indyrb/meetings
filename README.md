@@ -6,6 +6,8 @@ Topics
 
 ### Editor Wars 
 
+**Vim** - Dave Strus and Miles Sterret gave a lively presentation on Vim
+
 ### Gems and Plugins 
 
 ### Rails + Merb! 
