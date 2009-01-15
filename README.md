@@ -19,6 +19,10 @@ Dave Strus and Miles Sterret gave a lively presentation on Vim
 
 Nolan Eakins presented emacs - and Tetris emacs!
 
+## Next Meetup Presentations
+- books to presenters - Enterprise Ruby & Advanced Rails Recipes
+- Getting rid of fixtures - Factory Girl and/or something Awesome! - Miles / Dave
+- Potion by Why - Chris Z
 
 
 ### Gems and Plugins 
