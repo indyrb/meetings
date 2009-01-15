@@ -1,0 +1,3 @@
+Nolan's Config: http://git.oss.semanticgap.com/emacs.git
+
+EmacsWiki.org has a ton of info.
