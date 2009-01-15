@@ -10,10 +10,10 @@ Topics
 Dave Strus and Miles Sterret gave a lively presentation on Vim
 
 **Vim Links**
-<mileszs.github.com>
+<http://mileszs.github.com>
 
 **Discussed Github Page**
-<github.com/blog/272-github-pages>
+<http://github.com/blog/272-github-pages>
 
 #### Emacs
 
