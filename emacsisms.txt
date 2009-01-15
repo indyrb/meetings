@@ -1,3 +1,48 @@
 Nolan's Config: http://git.oss.semanticgap.com/emacs.git
 
 EmacsWiki.org has a ton of info.
+
+
+My "slides":
+
+Why I like Emacs:
+
+* Runs everywhere
+* Completely open source and in Lisp
+* Easy to customize:
+  * customize command
+  * start with ~/.emacs
+* Functions gallow, that operate on buffers
+* Self documenting: C-h f TAB TAB, C-h v TAB TAB, C-h k, C-h b
+* Maps keys to functions
+* Repeat
+
+Common Keys:
+
+* Cursor movement: C-f C-b C-p C-n
+* Open file: C-x C-f
+* Save file: C-x C-s
+* Run command: M-x
+* Stop command: M-g
+* Change buffers: C-x C-b
+* Search forward/backward: C-s C-r
+* Copy, cut, and paste: A-w C-w C-y
+* Undo: C-x u
+* Exit: C-x C-c
+* Window splitting:
+  * C-x b 1 
+  * C-x b 2
+  * C-x b 3
+  * C-x b 0
+* Window movement: C-x o
+
+Ruby:
+
+* show .emacs
+* eRB is flakey
+* special modes
+
+Other modes
+
+* Random mentions
+* How to install
