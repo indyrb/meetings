@@ -17,6 +17,10 @@ Miles and possibly Dave S. will be presenting on alternatives to fixtures. Facto
 
 ### Books to Presenters
 
+### Indy.rb FriendFeed
+
+
+
 Sponsors
 ========
 Thanks to New Relic for Sponsoring the February Meetup!
