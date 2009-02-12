@@ -2,7 +2,7 @@ Indy.rb February Meetup Live Notes
 ----------------------------
 
 ### New Relic RPM
-Webinar presentation on Rails Performance Monitoring with New Relic RPM by Steve Hudson
+Webinar presentation on Rails Performance Monitoring with [New Relic RPM](http://newrelic.com/RPM.html) by Steve Hudson
 - IndyRb is now an affiliate partner of RPM
 
 ### Open Discussion
@@ -10,11 +10,11 @@ Webinar presentation on Rails Performance Monitoring with New Relic RPM by Steve
 - New Relic sponsorship
 
 ### Members in the news
-- Dave Christiansen open letter to President Obama
-- Miles S. and Dave S. mentioned in Github blog for Vim links site and Vim Monster
+- Dave Christiansen wrote the [Open Source Letter to President Obama](http://consideropensource.blogspot.com/)
+- Miles S. and Dave S. [mentioned in Github blog](http://github.com/blog/339-handy-vim-links) for [Vim links](http://mileszs.github.com) site and Vim Diesel: The Many-Tentacled Vim Monster.
 
 #### Potion
-Chris Z. presented Potion, the new programming language created by Why.
+Chris Z. presented [Potion](http://github.com/why/potion/tree/master), the new programming language created by Why.
 
 - The language is not quite done yet!
 - No floating point numbers
@@ -22,29 +22,35 @@ Chris Z. presented Potion, the new programming language created by Why.
 - Closures are actually terse and nice
 - 6-10k lines of code
 
-### Fixture Alternatives
+#### Fixture Alternatives
 Miles S. presented alternatives to fixtures.  Fixtures are the Devil!
 
+- Constructor Helpers
+- Mocking and Stubbing
 - Stereotypes
 - Inline Fixtures
-- Exemplar
+- Exemplars
 - Factories - evolution of test data
+- [FactoryGirl](http://github.com/thoughtbot/factory_girl)
+- [Machinist](http://github.com/notahat/machinist)
+- [Sweatshop](http://github.com/mileszs/sweatshop)
+
+See the included slides _(although they were more an aid than a comprehensive summary of the presentation.  Not sure how useful they are)_.
 
 ### Books to Presenters
 Thanks to Pragmatic Programmers for sponsoring the group with books!
 
 - Chris Z received Enterprise Ruby
-- Miles S receved Enterprise Rails Recipes
-
-
+- Miles S receved Advanced Rails Recipes
 
 ### Indy.rb FriendFeed
 
+The [Indy.rb FriendFeed room](http://friendfeed.com/rooms/indyrb) is a good place to exchange links, messages, pictures, etc. with the Indy Ruby Brigade.
 
 
 Sponsors
 ========
-Thanks to New Relic for Sponsoring the February Meetup!
+Thanks to [New Relic](http://newrelic.com/) for Sponsoring the February Meetup!
 
 About New Relic
 ---------------------------
