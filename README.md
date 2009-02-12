@@ -1,9 +1,6 @@
 Indy.rb February Meetup Live Notes
 ----------------------------
 
-Topics
-======
-
 ### New Relic RPM
 Webinar presentation on Rails Performance Monitoring with New Relic RPM by Steve Hudson
 - IndyRb is now an affiliate partner of RPM
@@ -18,14 +15,28 @@ Webinar presentation on Rails Performance Monitoring with New Relic RPM by Steve
 
 #### Potion
 Chris Z. presented Potion, the new programming language created by Why.
+
 - The language is not quite done yet!
 - No floating point numbers
 - String are immmutable
+- Closures are actually terse and nice
+- 6-10k lines of code
 
 ### Fixture Alternatives
-Miles and possibly Dave S. will be presenting on alternatives to fixtures. Factory Girl and others will be explored. 
+Miles S. presented alternatives to fixtures.  Fixtures are the Devil!
+
+- Stereotypes
+- Inline Fixtures
+- Exemplar
+- Factories - evolution of test data
 
 ### Books to Presenters
+Thanks to Pragmatic Programmers for sponsoring the group with books!
+
+- Chris Z received Enterprise Ruby
+- Miles S receved Enterprise Rails Recipes
+
+
 
 ### Indy.rb FriendFeed
 
