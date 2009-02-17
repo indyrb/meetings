@@ -9,7 +9,7 @@ Indy.rb March Meetup Live Notes
 
 Sponsors
 ========
-Thanks to [Engine Yard](http://engineyard.com) [New Relic](http://newrelic.com/) for sponsoring the March Meetup!
+Thanks to [Engine Yard](http://engineyard.com) and [New Relic](http://newrelic.com/) for sponsoring the March Meetup!
 
 About EngineYard 
 -----------------
