@@ -30,16 +30,25 @@ Miles S. presented alternatives to fixtures.  Fixtures are the Devil!
 - Exemplar
 - Factories - evolution of test data
 
+#### Plugins
+
+- Factory Girl - by Thoughtbot
+- Machinist
+- Sweatshop - generates Factory Girl and Machinist files automatically
+
 ### Books to Presenters
 Thanks to Pragmatic Programmers for sponsoring the group with books!
 
 - Chris Z received Enterprise Ruby
-- Miles S receved Enterprise Rails Recipes
+- Miles S receved Advanced Rails Recipes
 
+### Presentations for Next Meetup
 
+- RSpec and Selenium integration - Dave Christiansen
+- Javascript - Dave Strus
+- Teaching Ruby as a first language - Robby Slaughter
 
 ### Indy.rb FriendFeed
-
 
 
 Sponsors
