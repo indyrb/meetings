@@ -1,11 +1,49 @@
 Indy.rb March Meetup Live Notes
 --------------------------------
 
-### Planned Presentations
+### Presentations
 
 - RSpec and Selenium integration - Dave Christiansen
 - Javascript - Dave Strus
 - Teaching Ruby as a first language - Robby Slaughter
+
+======================================================
+
+#### Teaching Ruby as a First Language ####
+
+##### Biggest Problem #####
+
+We don't know where students are coming from, and where they are going.
+
+## Why Ruby? ##
+
+* No one knows it
+* Students dno't automatically slack off
+* Clean syntax
+* Fully OO
+* Constructs lend to diagramming and discussion
+
+##### How are we doing it? ##### 
+
+* Assign a one-month workshop with daily tasks.
+* Use variety of online tutorials.
+* Provide support, not instruction.
+* Require completion; expect drop-outs.
+
+##### Student Question War Stories #####
+
+(Various code blunders presented.)
+
+##### What's Next? #####
+
+Almost nobody is teaching Ruby at the University level.
+Basically nobody is teaching it as a first language.
+
+Ruby is good for teaching:
+* Web development
+* OO design
+* Testing / TDD
+* ...
 
 Sponsors
 ========
