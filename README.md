@@ -9,6 +9,7 @@ Indy.rb March Meetup Live Notes
   
 
 #### Teaching Ruby as a First Language  
+*by Robby Slaughter*  
 
 
 ##### Biggest Problem  
@@ -30,7 +31,7 @@ We don't know where students are coming from, and where they are going.
 * Assign a one-month workshop with daily tasks.
 * Use variety of online tutorials.
 * Provide support, not instruction.
-* Require completion; expect drop-outs.
+* Require completion; expect drop-outs.  
   
 
 ##### Student Question War Stories  
@@ -51,6 +52,7 @@ Ruby is good for teaching:
   
 
 #### Javascript + Rails  
+*by Davey Strus*  
 
 We use a ton of javascript at nFrame.  We needed a way to load certain javascript files for certain views.  Davey wrote a function (OK, several functions) that will effectively 'require' javascript files in other javascript files.  It's... involved.
 
@@ -63,6 +65,15 @@ JavascriptAutoInclude: http://github.com/kernow
 Sprockets (by 37signals): http://getsprockets.org  
 
 (more links to come!)  
+
+#### RSpec & Selenium  
+*by Dave Christiansen*  
+
+For TriSano, Dave needed automated integration tests that drive the browser (on their Continuous Integration server).  
+
+Selenium's IDE can be used to create tests that drive the browser.  This alone is difficult to automate.  Dave wrote some code to allow you to export the Selenium tests to RSpec.  This quickly led to abondoning the Selenium IDE, and writing a lot of helper methods, allowing them to reuse the tests they write frequently.  
+
+Dave abandoned the Selenium grid, and essentially wrote his own.  In the future, Dave is looking at refactoring the TriSano integration system to have a more expressive API, favor XPath over DOM ids only, and integrate Cucumber.  
 
 
 Sponsors
