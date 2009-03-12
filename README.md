@@ -5,10 +5,8 @@ Indy.rb March Meetup Live Notes
 
 - RSpec and Selenium integration - Dave Christiansen
 - Javascript - Dave Strus
-- Teaching Ruby as a first language - Robby Slaughter
+- Teaching Ruby as a first language - Robby Slaughter  
   
-
-
 
 #### Teaching Ruby as a First Language  
 
@@ -24,7 +22,7 @@ We don't know where students are coming from, and where they are going.
 * Students dno't automatically slack off
 * Clean syntax
 * Fully OO
-* Constructs lend to diagramming and discussion
+* Constructs lend to diagramming and discussion  
   
 
 ##### How are we doing it?  
@@ -49,8 +47,23 @@ Ruby is good for teaching:
 * Web development
 * OO design
 * Testing / TDD
-* ...
+* ...  
   
+
+#### Javascript + Rails  
+
+We use a ton of javascript at nFrame.  We needed a way to load certain javascript files for certain views.  Davey wrote a function (OK, several functions) that will effectively 'require' javascript files in other javascript files.  It's... involved.
+
+* Require a few javascript files everywhere
+* Load a javascript file based on the controller name
+* Auto-run a function based on the view  
+
+JavascriptAutoInclude: http://github.com/kernow  
+
+Sprockets (by 37signals): http://getsprockets.org  
+
+(more links to come!)  
+
 
 Sponsors
 ========
