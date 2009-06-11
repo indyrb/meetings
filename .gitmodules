@@ -1,3 +1,9 @@
 [submodule "2009-04-08/cucumber"]
 	path = 2009-04-08/cucumber
 	url = git://github.com/sneakin/indyrb_cucumber.git
+[submodule "2009-05-13/metaprogramming"]
+	path = 2009-05-13/metaprogramming
+	url = http://github.com/systematic/meta_presentation.git
+[submodule "2009-06-10/newbflow"]
+	path = 2009-06-10/newbflow
+	url = git://github.com/mileszs/newbflow.git
